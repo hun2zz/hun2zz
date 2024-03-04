@@ -16,3 +16,8 @@
 * 🎁 Open source enthusiast. Thanks to all the open source contributors!
 
 * 🔥 I really love the thrill of making what I want possible!
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
