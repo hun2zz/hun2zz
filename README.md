@@ -9,3 +9,10 @@
     <a href="mailto:tkdgnsdldkdlel@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
+
+
+### About me
+
+* 🎁 Open source enthusiast. Thanks to all the open source contributors!
+
+* 🔥 I really love the thrill of making what I want possible!
