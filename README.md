@@ -19,6 +19,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hun2zz&show_icons=true&theme=radical" alt="hun2zz's GitHub stats">
 </p>
 
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2zz&layout=compact)
+  
+</div>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
