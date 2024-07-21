@@ -30,12 +30,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
+
+## <div width="25" height="25" />
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2zz&layout=compact)
   
 </div>
 
+
+## <div width="25" height="25" />
 
 <div>
   <p align='center'>
