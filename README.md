@@ -38,6 +38,13 @@
   
 </div>
 
+<div align="center">
+
+  
+![hun2zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2zz&show_icons=true)
+</div>
+
+
 
 ## <div width="25" height="25" />
 
