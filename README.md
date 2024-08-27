@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hun2zz&show_icons=true&theme=radical" alt="hun2zz's GitHub stats">
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
