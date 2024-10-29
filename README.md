@@ -9,9 +9,8 @@
 ## Project
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
-| Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Team Sparker](https://github.com/TeamSparker) <br> [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
-| 대한민국 공군 (ROKAF) | 대한민국 공군본부 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/airforce/index.do) |
-| Black Eagles | 공군 특수비행팀 블랙이글스 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/blackeagles/index.do) |
+| 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
+| 나의 애착 페이지 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | none |
 | LinkLip (링클립) | 효율적인 정보 관리를 위한 최고의 수단! | SW 마에스트로 | [LinkLip-Server](https://github.com/SoftwareMaestro-LinkLip/LinkLip-Server) |
 | 캠퍼스런 | 대학교 캠퍼스 배경 3D 레이싱 게임 | 중앙대학교 | [Team 캠퍼스런](https://github.com/Campus-Run) |
 | ME:EW | 서로를 이해하기 위한 가장 좋은방법, MEEW ! | SOPT | [MEEW-Server](https://github.com/ME-EW/MEEW-Server) |
