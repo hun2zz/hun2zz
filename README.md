@@ -12,31 +12,19 @@
 | 진상훈 웹 포트폴리오(Ing) | 리액트로 제작한 진상훈 웹 포트폴리오 | 1인 제작 | [Web Link](https://hun2zz.github.io/) |
 | 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
 | 나의 애착 페이지 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | [Github Link](https://github.com/project5jo/maroon5) |
+| 기억력 게임 | 바닐라 자바스크립트로 제작한 기억력 게임 | 중꺽마 | [Github Link]([https://github.com/project5jo/maroon5](https://github.com/javascript3jo/RandomGame)) |
+
 
 ## Experience
-### - 2023
-- **HYUNDAI MOBIS Central Communication Unit AP SW, <br>
-Connected Car Service Research Engineer**
-### - 2022
-- **Software Maestro 13th Regular Course (2022.06 ~ 2022.12)**
-- **Software Maestro 13th Preparatory Course (2022.04 ~ 2022.05)**
-- **LikeLion at Chung-Ang University 10th Executive (2021.12 ~ 2022.05)**
-- **Michigan State University, Global Entrepreneurship and Innovation Course (2022.01)**
-### - 2021
-- **SOPT 29th, WE-SOPT Server Development Part (2021.09 ~ 2022.01)**
-- **LikeLion at Chung-Ang University 9th (2021.03 ~ 2021.12)**
-### - 2019
-- **Republic Of Korea Air Force Headquarter Web and Server Developer (2019.03 ~ 2021.01)**
-### - 2017
-- **Chung-Ang University, Computer Science and Engineering (2017.03 ~ 2023.02)**
-  - **GPA : 3.94 / 4.5**
-  - **GPA (major) : 4.10 / 4.5**
+### - 2024
+- **중앙정보처리 학원 수료, <br>
+"과팅" 프로젝트로 수료 당시 최우수상 수상**
 
 ## Interest
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" width="60" height="25" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="80" height="25" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="65" height="25" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" width="60" height="25" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="80" height="25" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="65" height="25" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="65" height="25" />
 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" width="100" height="25" /> <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" width="100" height="25" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100" height="25" /> 
 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="25" />
 
