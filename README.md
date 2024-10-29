@@ -1,12 +1,10 @@
-## 김영권 | Youngkwon Kim
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23E9388E&title_bg=%23181818&icon=maserati.svg&icon_color=%2300DBFF&title=hits&edge_flat=false)
-> Hello, I am Youngkwon Kim living in Seoul, Korea. <br>
-> I majored in Computer Science and Engineering at Chung-Ang University (CAU). <br>
-> Interested in backend development solving problems from different perspectives. <br>
-> Now, I am researching about Mobility Technology for Tomorrow!
+## 진상훈 | Sanghun Jin
+
+> 안녕하세요. 서울 사는 진상훈입니다.<br>
+> 꾸준히 노력하고 소통을 즐겨하는 개발자입니다.<br>
 
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr) -->
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:its.youngkwon@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:tkdgnsdldkdlel@naver.com)
 
 ## Project
 | Service | Description | Group | Link |
