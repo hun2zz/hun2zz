@@ -11,19 +11,7 @@
 |:---:|:---:|:---:|:---:|
 | 진상훈 웹 포트폴리오(Ing) | 리액트로 제작한 진상훈 웹 포트폴리오 | 1인 제작 | [Web Link](https://hun2zz.github.io/) |
 | 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
-| 나의 애착 페이지 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | none |
-| 캠퍼스런 | 대학교 캠퍼스 배경 3D 레이싱 게임 | 중앙대학교 | [Team 캠퍼스런](https://github.com/Campus-Run) |
-| ME:EW | 서로를 이해하기 위한 가장 좋은방법, MEEW ! | SOPT | [MEEW-Server](https://github.com/ME-EW/MEEW-Server) |
-| READ ME | 우리들의 독서기록 서비스 | SOPT 30기 | [README-Server](https://github.com/TEAM-README/Readme-Server) |
-| 오시내시 | 좋은 감정, 나쁜 감정 모두 기록하는 감정 가계부 | SOPT 30기 | [오시내시-Server](https://github.com/30th-SOPKATHON-8/Sopkathon-Server) 
-| GitHub Tracker | GitHub Following & Follower Tracker | 개인 프로젝트 | [GitHub-Repo](https://github.com/youngkwon02/github-following-tracker) 
-| My BF (Barrier-Free) | 교통약자를 위한 교통 예약 및 트래킹 서비스 | Junction X Seoul | [Team MAEMO](https://github.com/youngkwon02/JunctionX-MAEMO) |
-| The Signature | 머신러닝을 활용한 서명 제작 서비스 | 중앙대학교 | [The Signature](https://github.com/youngkwon02/The-Signature) |
-| 공군 복지시설 예약체계 | 일반인과 군인 모두 이용하는 복지시설 예약체계 | 대한민국 공군 | [Web Link](https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/index.do) |
-| 지능형 스마트 비행단 | 공군 지능형 스마트 비행단 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/sites/smartwing/index.do) |
-| Measure-Shrimps | 양식새우 모니터링 및 개체 크기 측정 | 개인 프로젝트 | [GitHub-Repo](https://github.com/youngkwon02/Detect-and-Measure-Shrimps) | 
-| 모의자 | 모두의 의견을 자유롭게, 모의자! | 중앙대학교 | [Youtube](https://youtu.be/3K2CKHKzg3g) | 
-| DO MAIN | 개인에게 최적화된 웹 브라우저 | 중앙대학교 | [Demo Video](https://www.instagram.com/tv/CSlSn8oF1_-/?utm_source=ig_web_copy_link) | 
+| 나의 애착 페이지 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | [Github Link](https://github.com/project5jo/maroon5) |
 
 ## Experience
 ### - 2023
