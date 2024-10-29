@@ -10,7 +10,7 @@
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
 | 진상훈 웹 포트폴리오(Ing) | 리액트로 제작한 진상훈 웹 포트폴리오 | 1인 제작 | [Web Link](https://hun2zz.github.io/) |
-| 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
+| 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
 | 나의 애착 페이지 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | none |
 | 캠퍼스런 | 대학교 캠퍼스 배경 3D 레이싱 게임 | 중앙대학교 | [Team 캠퍼스런](https://github.com/Campus-Run) |
 | ME:EW | 서로를 이해하기 위한 가장 좋은방법, MEEW ! | SOPT | [MEEW-Server](https://github.com/ME-EW/MEEW-Server) |
