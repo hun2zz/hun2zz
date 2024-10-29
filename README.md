@@ -26,18 +26,18 @@
 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100" height="25" /> 
 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="25" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" width="100" height="25" /> 
 
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" width="70" height="25" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" width="70" height="25" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" width="100" height="25" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" width="120" height="25" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" width="90" height="25" />
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" width="70" height="25" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" width="70" height="25" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" width="120" height="25" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="25" />
 
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="80" height="25" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="85" height="25" />
+<img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="65" height="25"/> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="85" height="25" />
 
 <br>
 
 ## Card
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=youngkwon02&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hun2zz&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=youngkwon02&cache_seconds=1800&show_icons=true&hide=stars&count_private=true&custom_title=ʏᴏᴜɴɢᴋᴡᴏɴ'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" />
+<img src="https://github-readme-stats.vercel.app/api?username=hun2zz&cache_seconds=1800&show_icons=true&hide=stars&count_private=true&custom_title=hun2zz'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" />
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=youngkwon02&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="youngkwon02" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=hun2zz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="youngkwon02" />
