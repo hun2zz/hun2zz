@@ -12,7 +12,7 @@
 | 진상훈 웹 포트폴리오(Ing) | 리액트로 제작한 진상훈 웹 포트폴리오 | 1인 제작 | [Web Link](https://hun2zz.github.io/) |
 | 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
 | 나의 애착 페이지 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | [Github Link](https://github.com/project5jo/maroon5) |
-| 기억력 게임 | 바닐라 자바스크립트로 제작한 기억력 게임 | 중꺽마 | [Github Link]([https://github.com/project5jo/maroon5](https://github.com/javascript3jo/RandomGame)) |
+| 기억력 게임 | 바닐라 자바스크립트로 제작한 기억력 게임 | 중꺽마 | [Github Link](https://github.com/javascript3jo/RandomGame) |
 
 
 ## Experience
